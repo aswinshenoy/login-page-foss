@@ -6,3 +6,6 @@ This repo contains a login page which accepts username/email and password of a u
 ## ACCEPTED CREDENTIALS
 <b>USERNAME:</b> ashwin@foss.com <br>
 <b>PASSWORD:</b> amfoss
+
+## FUTURE FEATURES
++ Support for JSON List of Accepted Usernames & Passwords

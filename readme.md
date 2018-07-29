@@ -4,5 +4,5 @@ This repo contains a login page which accepts username/email and password of a u
 <b>USES:</b> HTML, CSS, JQUERY, BOOTSTRAP 4
 
 ## ACCEPTED CREDENTIALS
-<b>USERNAME:</b> ashwin@foss.com
+<b>USERNAME:</b> ashwin@foss.com <br>
 <b>PASSWORD:</b> amfoss
